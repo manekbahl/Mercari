@@ -9,6 +9,7 @@ everyone to sell their products, it has become increasingly difficult to actuall
 something is really worth. To this end, they’d like to offer pricing suggestions to the sellers, but
 this is tough because their sellers are enabled to put just about anything, or any bundle of things,
 on Mercari's marketplace.
+
 The challenge with product pricing is that the different categories of products have
 different pricing patterns. For example, clothing has strong seasonal pricing trends and is heavily
 influenced by brand names, while electronics have fluctuating prices based on product specs.
