@@ -16,3 +16,8 @@ influenced by brand names, while electronics have fluctuating prices based on pr
 In this paper, we describe how we are going to predict the price of the product based on
 the information provided to us, giving importance to the product description which might hold
 key feature for price prediction.
+
+In this project we try to use various NLP techniques and redictive algorithms to predict the 
+correct price of an item based on various features provided by Mercari.
+
+
